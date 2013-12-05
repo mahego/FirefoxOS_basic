@@ -1,0 +1,13 @@
+{
+ "name" : "Sumar",
+  "description": "Suma de Dos Numeros",
+  "launch_path": "/index.html",
+"icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Mario Hernandez Gomez",
+    "url": "http://androiteka.tk/"
+  },
+  "default_locale": "es"
+}

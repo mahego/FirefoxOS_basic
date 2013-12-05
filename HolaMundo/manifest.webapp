@@ -1,0 +1,9 @@
+{
+ "name" : "Mi app",
+  "description": "Hola Mundo",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  }
+
+  }
